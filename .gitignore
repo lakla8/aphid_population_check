@@ -1,0 +1,9 @@
+# Elsevier copyright, fetch these yourself from the paper's DOI
+*.pdf
+1-s2.0-*.xlsx
+*.xlsx
+
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
